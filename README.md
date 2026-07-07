@@ -1,11 +1,16 @@
-### Hi there 👋
+# Hi there 👋 I'm Minhajuddin Ayubin
 
-I'm Minhajuddin — a final-year student and market research associate, currently building in AI/ML and co-founding an AI/tech services startup on the side.
+B.Tech Computer Science graduate (MDU, 2026) — currently working as a 
+Secondary Research Associate at Mindforce Research and completing a 
+virtual AI internship.
 
-🔭 Currently building a RAG-based prompting agent that turns unstructured input into structured, domain-appropriate prompts — semantic retrieval + LLM synthesis + an automated eval loop. Still in active testing.
+🤖 Co-founding an AI/tech services startup — currently in prototype stage.
 
-📊 Also working with Python for applied data science — anomaly detection, forecasting, and spatial analysis on real-world datasets.
+📊 Building in applied AI/ML — document analysis, fact verification, 
+forecasting, and predictive modelling using Python.
 
-🌱 Learning as I go, and trying to build things that actually work end-to-end rather than just notebooks.
+🌱 Focused on building things that work end-to-end, not just notebooks.
 
-📫 Reach me: minhajuddin12316@gmail.com
+🔗 Portfolio: https://minhaj2003.github.io
+
+📫 Reach me: minhajuddinayubin@gmail.com
